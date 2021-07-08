@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/nfense/kernel-tweeks/main/logo.png" width="64px" alt="logo"/> 
-  <h1 align="center">Kernel Tweeks</h1>
+  <h1 align="center">Kernel Tweaks</h1>
   <p align="center">Optimized kernel configuration intended for high performance and useful to prevent DDoS attacks.</p>
 </p>
 
