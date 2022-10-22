@@ -7,10 +7,19 @@
 ### ⚙️ How its works?
 The `/etc/sysctl` file allows modifying kernel parameters and making them persistent. We can use these parameters to protect our server against DDoS attacks or even get more performance from it.  
 
-### 📦 Installation
-1. Clone the repository.  
-2. Use in terminal `chmod 750 ./install.sh`  
-3. Run the install.sh script using `sh ./install.sh`  
+### 📦 Installation (Please run it as root)
+1. Clone the repository:
+```bash
+  git clone https://github.com/nfense/kernel-tweaks.git
+```
+2. Use in terminal in order to modify file permissions: 
+```bash
+  chmod 750 ./install.sh
+```
+3. Run the install.sh shell script using:
+```bash
+  sh install.sh
+```
 
 ### ❤️ Contribute
 If you want to contribute changes to the project, you are welcome to do so. Simply create a PR by submitting your changes and after reviewing and testing it, it will be accepted.
